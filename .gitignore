@@ -1,7 +1,6 @@
 Cargo.lock
 package-lock.json
 node_modules
-src
 scilab
 target
 bindings
